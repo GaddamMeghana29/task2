@@ -4,7 +4,7 @@ h = int(input())
 
 def sum(a,b):
     return a+b
-c = sum(a,b)
+x = sum(a,b)
 
 def div(x):
     return x//2
