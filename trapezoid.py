@@ -1,6 +1,6 @@
 a = int(input())
 b = int(input())
 h = int(input())
-def div(c):
-    return c/2
-x = div(c)
+def div(x):
+    return x//2
+c = div(x)
